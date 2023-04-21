@@ -30,7 +30,7 @@ Sinta-se à vontade para contribuir com este projeto, enviando pull requests com
 
 ## Veja o Projeto Online
 Deploy Do Projeto
-- [GitHub Pages](https://github.com/vandesonsantos/NFT-Preview-Card/)  
+- [GitHub Pages](https://vandesonsantos.github.io/NFT-Preview-Card/)  
 
 
 
