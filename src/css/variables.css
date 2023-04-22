@@ -1,0 +1,10 @@
+:root{
+    --background-color: #0D192B;
+    --background-color-card: #14253D;
+    --background-hover-image: #00ffff;
+    --color-text-hover: #04D7D6;
+    --color-text: #8BACDA;
+
+
+    --default-font: 'Outfit', sans-serif;
+}
